@@ -1,0 +1,11 @@
+Part 1 : Kshitish_masterTheoromSolution
+
+a)3T (n/2) + n           =  Θ(n^lg3)
+
+b)64T (n/8) − n^2(log n) =  Θ(((n^2)/2)(log(1/n))logn)
+
+c)2nT (n/2) + n^n        =  Does not apply (a is not constant)
+
+d)3T (n/3) + n/2         =  Θ(n log n)
+
+e)7T (n/3) + n^2         =  Θ(n^2) 
